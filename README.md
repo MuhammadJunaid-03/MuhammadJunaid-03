@@ -1,0 +1,148 @@
+<div align="center">
+
+# Hey there, I'm Junaid <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+
+### Game Developer & Creative Technologist
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mjunaid03/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadJunaid-03)
+
+<br/>
+
+*Building interactive experiences — from mobile games to full-stack web apps.*
+
+*Islamabad, Pakistan*
+
+</div>
+
+---
+
+### About Me
+
+I'm a **Game Developer** turned **Creative Technologist** who thrives at the intersection of interactive entertainment and modern web experiences. I specialize in building polished mobile games with Unity and crafting responsive, production-ready UIs for the web.
+
+I believe great software is about **feel** — whether it's the satisfying tap of stacking a perfect block or the smooth scroll of a well-designed interface. I bring that same attention to detail to everything I build.
+
+- Currently exploring **AI-assisted development** workflows with tools like Claude Code and MCP for Unity
+- Experienced in shipping **mobile games** optimized for Android
+- Building **full-stack web applications** with modern UI frameworks
+- Always learning, always shipping
+
+---
+
+### Tech Stack
+
+<div align="center">
+
+#### Game Development
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+
+#### Frontend & Web
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+#### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+#### AI & Automation
+![Claude](https://img.shields.io/badge/Claude_Code-D4A574?style=for-the-badge&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_for_Unity-00D4AA?style=for-the-badge&logoColor=white)
+
+</div>
+
+---
+
+### Featured Projects
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### <img src="https://img.shields.io/badge/-Game-blueviolet" /> [Stack Tower](https://github.com/MuhammadJunaid-03/Stack-Tower)
+Hyper-casual tap-to-stack game built with **Unity 6** for Android. Features block slicing, combo system, dynamic colors, and UI Toolkit interface — built entirely through **AI-assisted development** with Claude Code & MCP.
+
+`Unity` `C#` `Android` `UI Toolkit` `MCP`
+
+</td>
+<td width="50%" valign="top">
+
+#### <img src="https://img.shields.io/badge/-Web-blue" /> [RobotJet Website](https://github.com/MuhammadJunaid-03/robotjet-website)
+Modern industrial digital printing website redesign with clean, responsive UI and professional branding.
+
+`HTML` `CSS` `JavaScript` `Responsive Design`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### <img src="https://img.shields.io/badge/-Web-blue" /> [Unity Asset Store](https://github.com/MuhammadJunaid-03/unity-asset-store)
+UnityVault — a free & premium Unity asset marketplace interface with modern UI/UX, search functionality, and asset categorization.
+
+`HTML` `CSS` `JavaScript` `UI/UX`
+
+</td>
+<td width="50%" valign="top">
+
+#### <img src="https://img.shields.io/badge/-Game-blueviolet" /> [Space Blaster](https://github.com/MuhammadJunaid-03/space-blaster)
+Classic space shooter game with engaging gameplay mechanics and retro-inspired visuals.
+
+`HTML` `JavaScript` `Game Dev`
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MuhammadJunaid-03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadJunaid-03&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="48%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadJunaid-03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="40%" />
+
+</div>
+
+---
+
+### What I'm Up To
+
+- Building mobile games with **Unity 6** and shipping to the Play Store
+- Exploring **AI-powered development** workflows — using Claude Code + MCP to accelerate game development
+- Creating polished, responsive **web interfaces** and landing pages
+- Open to **collaborations** on game dev and creative tech projects
+
+---
+
+<div align="center">
+
+#### Let's Connect
+
+I'm always open to interesting conversations and collaboration opportunities.
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mjunaid03/)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=MuhammadJunaid-03&style=flat-square&color=58A6FF" alt="Profile Views" />
+
+---
+
+*"Code is the brush, the screen is the canvas."*
+
+</div>
