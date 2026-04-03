@@ -85,18 +85,31 @@ Modern industrial digital printing website redesign with clean, responsive UI an
 <tr>
 <td width="50%" valign="top">
 
+#### <img src="https://img.shields.io/badge/-Game-blueviolet" /> [Bomber Ace](https://github.com/MuhammadJunaid-03/Bomber-Ace)
+WW2 arcade bomber game built with **Unity 6**. Top-down aerial combat with bomb dropping, ground target destruction, enemy AI fighters, procedural terrain, upgrade system, and full HUD — developed with **AI-assisted workflow** using Claude Code & MCP.
+
+`Unity` `C#` `URP` `Cinemachine` `MCP`
+
+</td>
+<td width="50%" valign="top">
+
 #### <img src="https://img.shields.io/badge/-Web-blue" /> [Unity Asset Store](https://github.com/MuhammadJunaid-03/unity-asset-store)
 UnityVault — a free & premium Unity asset marketplace interface with modern UI/UX, search functionality, and asset categorization.
 
 `HTML` `CSS` `JavaScript` `UI/UX`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 #### <img src="https://img.shields.io/badge/-Game-blueviolet" /> [Space Blaster](https://github.com/MuhammadJunaid-03/space-blaster)
 Classic space shooter game with engaging gameplay mechanics and retro-inspired visuals.
 
 `HTML` `JavaScript` `Game Dev`
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
