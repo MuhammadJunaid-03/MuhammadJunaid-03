@@ -4,7 +4,9 @@
 
 ### Game Developer & Creative Technologist
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://muhammadjunaid-03.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mjunaid03/)
+[![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/muhammadjunaidiqbal)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadJunaid-03)
 
 <br/>
@@ -111,6 +113,11 @@ Classic space shooter game with engaging gameplay mechanics and retro-inspired v
 </td>
 <td width="50%" valign="top">
 
+#### <img src="https://img.shields.io/badge/-Web-blue" /> [Portfolio](https://github.com/MuhammadJunaid-03/portfolio)
+Modern dark-mode personal portfolio with smooth animations, typing effect, scroll reveals, and responsive design. [Live Demo](https://muhammadjunaid-03.github.io/portfolio/)
+
+`HTML` `Tailwind CSS` `JavaScript`
+
 </td>
 </tr>
 </table>
@@ -148,7 +155,9 @@ Classic space shooter game with engaging gameplay mechanics and retro-inspired v
 
 I'm always open to interesting conversations and collaboration opportunities.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://muhammadjunaid-03.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mjunaid03/)
+[![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/muhammadjunaidiqbal)
 
 <br/>
 
