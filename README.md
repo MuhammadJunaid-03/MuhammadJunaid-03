@@ -113,10 +113,23 @@ Classic space shooter game with engaging gameplay mechanics and retro-inspired v
 </td>
 <td width="50%" valign="top">
 
+#### <img src="https://img.shields.io/badge/-Game-blueviolet" /> [GameLoop](https://github.com/MuhammadJunaid-03/GameLoop)
+A JavaScript-based game loop engine for building browser games with smooth frame-rate handling and input management.
+
+`JavaScript` `Game Dev` `Canvas`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 #### <img src="https://img.shields.io/badge/-Web-blue" /> [Portfolio](https://github.com/MuhammadJunaid-03/portfolio)
 Modern dark-mode personal portfolio with smooth animations, typing effect, scroll reveals, and responsive design. [Live Demo](https://muhammadjunaid-03.github.io/portfolio/)
 
 `HTML` `Tailwind CSS` `JavaScript`
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
@@ -129,12 +142,7 @@ Modern dark-mode personal portfolio with smooth animations, typing effect, scrol
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MuhammadJunaid-03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadJunaid-03&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="48%" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadJunaid-03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="40%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadJunaid-03&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="60%" />
 
 </div>
 
