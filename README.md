@@ -25,9 +25,10 @@ I'm a **Game Developer** turned **Creative Technologist** who thrives at the int
 
 I believe great software is about **feel** — whether it's the satisfying tap of stacking a perfect block or the smooth scroll of a well-designed interface. I bring that same attention to detail to everything I build.
 
-- Currently exploring **AI-assisted development** workflows with tools like Claude Code and MCP for Unity
-- Experienced in shipping **mobile games** optimized for Android
-- Building **full-stack web applications** with modern UI frameworks
+- **Unity Developer @ Mobify** (Mar 2024 – Present) — Islamabad, Pakistan
+- Previously at **Zilon International** (Oct 2022 – Mar 2024) and **SabaSoft** (Mar 2021 – Oct 2022)
+- **B.S. Software Engineering** — COMSATS University Islamabad (2017 – 2021)
+- Exploring **AI-assisted development** workflows with Claude Code and MCP for Unity
 - Always learning, always shipping
 
 ---
