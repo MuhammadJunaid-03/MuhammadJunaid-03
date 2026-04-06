@@ -27,6 +27,7 @@ I believe great software is about **feel** — whether it's the satisfying tap o
 
 - **Unity Developer @ Mobify** (Mar 2024 – Present) — Islamabad, Pakistan
 - Previously at **Zilon International** (Oct 2022 – Mar 2024) and **SabaSoft** (Mar 2021 – Oct 2022)
+- **Self-taught Web Developer** (2021 – Present) — HTML, CSS, JS, React, freelance & personal projects
 - **B.S. Software Engineering** — COMSATS University Islamabad (2017 – 2021)
 - Exploring **AI-assisted development** workflows with Claude Code and MCP for Unity
 - Always learning, always shipping
