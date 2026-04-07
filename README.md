@@ -133,6 +133,11 @@ Modern dark-mode personal portfolio with smooth animations, typing effect, scrol
 </td>
 <td width="50%" valign="top">
 
+#### <img src="https://img.shields.io/badge/-Web-blue" /> [Bakery MVP App](https://github.com/MuhammadJunaid-03/bakery-mvp-app)
+A modern bakery web app MVP with clean UI, product showcase, and responsive design. [Live Demo](https://bakery-mvp-app.vercel.app)
+
+`HTML` `CSS` `JavaScript` `Responsive Design`
+
 </td>
 </tr>
 </table>
