@@ -59,6 +59,7 @@ I believe great software is about **feel** — whether it's the satisfying tap o
 #### AI & Automation
 ![Claude](https://img.shields.io/badge/Claude_Code-D4A574?style=for-the-badge&logo=anthropic&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP_for_Unity-00D4AA?style=for-the-badge&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
 
@@ -158,7 +159,8 @@ A modern bakery web app MVP with clean UI, product showcase, and responsive desi
 ### What I'm Up To
 
 - Building mobile games with **Unity 6** and shipping to the Play Store
-- Exploring **AI-powered development** workflows — using Claude Code + MCP to accelerate game development
+- Exploring **AI-powered development** workflows — using **Google Antigravity**, Claude Code, and MCP to accelerate game and web development
+- Experimenting with **agent-first IDEs** like Antigravity, where AI agents plan, edit across files, run code, and verify their own work end-to-end
 - Creating polished, responsive **web interfaces** and landing pages
 - Open to **collaborations** on game dev and creative tech projects
 
