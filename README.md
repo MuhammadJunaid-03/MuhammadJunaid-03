@@ -21,9 +21,9 @@
 
 ### About Me
 
-I'm a **Game Developer** turned **Creative Technologist** who thrives at the intersection of interactive entertainment and modern web experiences. I specialize in building polished mobile games with Unity and crafting responsive, production-ready UIs for the web.
+I'm a **Unity Game Developer** with **5+ years** of professional experience and **30+ titles** published on Google Play & Apple App Store — **150M+ combined downloads**. I specialize in shipping polished mobile games across racing, simulation, fighting, open-world, idle, puzzle, and hyper-casual genres.
 
-I believe great software is about **feel** — whether it's the satisfying tap of stacking a perfect block or the smooth scroll of a well-designed interface. I bring that same attention to detail to everything I build.
+I believe great games are about **feel** — the satisfying physics of a truck on rough terrain, the responsive punch of a fighting combo, the addictive loop of an idle cafe. I bring that same attention to detail to everything I build.
 
 - **5+ years** of professional Unity development — **30+ titles** published on Google Play & Apple App Store
 - **Unity Developer @ Mobify** (Mar 2024 – Present) — Islamabad, Pakistan
@@ -39,25 +39,33 @@ I believe great software is about **feel** — whether it's the satisfying tap o
 
 <div align="center">
 
-#### Game Development
+#### Game Development (Primary)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![URP](https://img.shields.io/badge/URP-222222?style=for-the-badge&logo=unity&logoColor=white)
+![Cinemachine](https://img.shields.io/badge/Cinemachine-222222?style=for-the-badge&logo=unity&logoColor=white)
 
-#### Frontend & Web
+#### Genres Shipped
+![Racing](https://img.shields.io/badge/Racing-FF4444?style=for-the-badge)
+![Simulation](https://img.shields.io/badge/Simulation-44AAFF?style=for-the-badge)
+![Fighting](https://img.shields.io/badge/Fighting-FF6600?style=for-the-badge)
+![Open_World](https://img.shields.io/badge/Open_World-AA44FF?style=for-the-badge)
+![Idle](https://img.shields.io/badge/Idle/Mgmt-44CC44?style=for-the-badge)
+![Puzzle](https://img.shields.io/badge/Puzzle-FFAA00?style=for-the-badge)
+![Hyper_Casual](https://img.shields.io/badge/Hyper_Casual-FF44AA?style=for-the-badge)
+
+#### Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-#### Tools & Platforms
+#### Tools & AI
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-#### AI & Automation
 ![Claude](https://img.shields.io/badge/Claude_Code-D4A574?style=for-the-badge&logo=anthropic&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP_for_Unity-00D4AA?style=for-the-badge&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
@@ -66,7 +74,7 @@ I believe great software is about **feel** — whether it's the satisfying tap o
 
 ---
 
-### Published Games — 30+ Titles | 115M+ Total Downloads | Play Store & App Store
+### Published Games — 30+ Titles | 150M+ Total Downloads | Play Store & App Store
 
 <div align="center">
 <table>
@@ -215,11 +223,11 @@ Dark-mode portfolio with animations, typing effect, scroll reveals. [Live Demo](
 
 ### What I'm Up To
 
-- Building mobile games with **Unity 6** and shipping to the Play Store
-- Exploring **AI-powered development** workflows — using **Google Antigravity**, Claude Code, and MCP to accelerate game and web development
-- Experimenting with **agent-first IDEs** like Antigravity, where AI agents plan, edit across files, run code, and verify their own work end-to-end
-- Creating polished, responsive **web interfaces** and landing pages
-- Open to **collaborations** on game dev and creative tech projects
+- Shipping mobile games with **Unity 6** to Play Store & App Store — **30+ titles, 150M+ downloads**
+- Building games across **racing, simulation, fighting, open-world, idle, puzzle & hyper-casual** genres
+- Using **AI-powered workflows** — Claude Code, MCP for Unity, and Google Antigravity to ship faster
+- Also crafting **web apps** with Next.js & React when needed
+- Open to **game development collaborations** and freelance projects
 
 ---
 
