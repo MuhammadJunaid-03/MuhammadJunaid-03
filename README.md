@@ -25,6 +25,7 @@ I'm a **Game Developer** turned **Creative Technologist** who thrives at the int
 
 I believe great software is about **feel** — whether it's the satisfying tap of stacking a perfect block or the smooth scroll of a well-designed interface. I bring that same attention to detail to everything I build.
 
+- **5+ years** of professional Unity development — **30+ titles** published on Google Play & Apple App Store
 - **Unity Developer @ Mobify** (Mar 2024 – Present) — Islamabad, Pakistan
 - Previously at **Zilon International** (Oct 2022 – Mar 2024) and **SabaSoft** (Mar 2021 – Oct 2022)
 - **Self-taught Web Developer** (2021 – Present) — HTML, CSS, JS, React, freelance & personal projects
@@ -65,7 +66,7 @@ I believe great software is about **feel** — whether it's the satisfying tap o
 
 ---
 
-### Published Games — 115M+ Total Downloads
+### Published Games — 30+ Titles | 115M+ Total Downloads | Play Store & App Store
 
 <div align="center">
 <table>
