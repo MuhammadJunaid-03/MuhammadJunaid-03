@@ -65,79 +65,135 @@ I believe great software is about **feel** — whether it's the satisfying tap o
 
 ---
 
-### Featured Projects
+### Published Games — 115M+ Total Downloads
 
 <div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### <img src="https://img.shields.io/badge/-Game-blueviolet" /> [Stack Tower](https://github.com/MuhammadJunaid-03/Stack-Tower)
-Hyper-casual tap-to-stack game built with **Unity 6** for Android. Features block slicing, combo system, dynamic colors, and UI Toolkit interface — built entirely through **AI-assisted development** with Claude Code & MCP.
+#### <img src="https://img.shields.io/badge/-50M+_Downloads-brightgreen" /> [Moto World Tour: Bike Racing](https://play.google.com/store/apps/details?id=com.kn.trafficracer.bikeracegames)
+First-person 3D bike racing across real-world routes. 6 game modes, 30+ vehicle types, bike customization, dynamic weather, 100+ achievements. **26.9K reviews.**
 
-`Unity` `C#` `Android` `UI Toolkit` `MCP`
+`Unity` `C#` `Racing` `Android` `Physics`
 
 </td>
 <td width="50%" valign="top">
 
-#### <img src="https://img.shields.io/badge/-Web-blue" /> [RobotJet Website](https://github.com/MuhammadJunaid-03/robotjet-website)
-Modern industrial digital printing website redesign with clean, responsive UI and professional branding.
+#### <img src="https://img.shields.io/badge/-50M+_Downloads-brightgreen" /> [OffRoad Truck Simulator](https://play.google.com/store/apps/details?id=com.pw.trucksimulatoreuro.offroadcargo)
+Cargo transport simulation with 100+ levels, multiple truck types, crane operations, realistic physics, and diverse terrain. **38.8K reviews.**
 
-`HTML` `CSS` `JavaScript` `Responsive Design`
+`Unity` `C#` `Simulation` `Physics` `Mobile`
 
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+#### <img src="https://img.shields.io/badge/-10M+_Downloads-green" /> [Karate Legends: Fighting Game](https://play.google.com/store/apps/details?id=com.gxs.karatefighting.superhero.king.fighting.games)
+Martial arts fighting with 17 fighters, 12 combat zones, special powers, PVP 1v1, boss fights, and adaptive difficulty. **18.1K reviews.**
+
+`Unity` `C#` `Fighting` `AI` `PVP`
+
+</td>
+<td width="50%" valign="top">
+
+#### <img src="https://img.shields.io/badge/-5M+_Downloads-yellowgreen" /> [Street Rebel: Open World](https://play.google.com/store/apps/details?id=com.kn.openworld.indian3Dbikerace.fighter.mania)
+Open-world action with vehicles, helicopters, airplanes, missions, police chases, stunts, and character customization. **4.1 stars.**
+
+`Unity` `C#` `Open World` `Action` `3D`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### <img src="https://img.shields.io/badge/-500K+_Downloads-yellow" /> [My Pizza Cafe Simulation](https://play.google.com/store/apps/details?id=io.gxs.trailside.camp.cafe.restaurant.idlegame)
+Idle cafe management sim — build and grow a mountain trail cafe, serve hikers, manage staff, expand locations. **4.5 stars.**
+
+`Unity` `C#` `Idle/Sim` `Management` `Mobile`
+
+</td>
 <td width="50%" valign="top">
 
 #### <img src="https://img.shields.io/badge/-Game-blueviolet" /> [Bomber Ace](https://github.com/MuhammadJunaid-03/Bomber-Ace)
-WW2 arcade bomber game built with **Unity 6**. Top-down aerial combat with bomb dropping, ground target destruction, enemy AI fighters, procedural terrain, upgrade system, and full HUD — developed with **AI-assisted workflow** using Claude Code & MCP.
+WW2 arcade bomber with enemy AI, procedural terrain, weapon upgrades, and cinematic camera — built with Unity 6 URP, Cinemachine & MCP.
 
-`Unity` `C#` `URP` `Cinemachine` `MCP`
-
-</td>
-<td width="50%" valign="top">
-
-#### <img src="https://img.shields.io/badge/-Web-blue" /> [Unity Asset Store](https://github.com/MuhammadJunaid-03/unity-asset-store)
-UnityVault — a free & premium Unity asset marketplace interface with modern UI/UX, search functionality, and asset categorization.
-
-`HTML` `CSS` `JavaScript` `UI/UX`
+`Unity 6` `C#` `URP` `Cinemachine` `MCP`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### <img src="https://img.shields.io/badge/-Game-blueviolet" /> [Space Blaster](https://github.com/MuhammadJunaid-03/space-blaster)
-Classic space shooter game with engaging gameplay mechanics and retro-inspired visuals.
+#### <img src="https://img.shields.io/badge/-Game-blueviolet" /> [Stack Tower](https://github.com/MuhammadJunaid-03/Stack-Tower)
+Hyper-casual tap-to-stack Android game with block slicing, combo system, and UI Toolkit — built with Unity 6 & MCP.
 
-`HTML` `JavaScript` `Game Dev`
+`Unity 6` `C#` `Android` `Hyper-Casual` `MCP`
 
 </td>
 <td width="50%" valign="top">
 
-#### <img src="https://img.shields.io/badge/-Game-blueviolet" /> [GameLoop](https://github.com/MuhammadJunaid-03/GameLoop)
-A JavaScript-based game loop engine for building browser games with smooth frame-rate handling and input management.
+#### <img src="https://img.shields.io/badge/-Game-blueviolet" /> Truck Simulator
+Mobile truck simulation with realistic physics, multiple truck models, and challenging terrain. Published on app stores.
 
-`JavaScript` `Game Dev` `Canvas`
+`Unity` `C#` `Physics` `Simulation` `Mobile`
 
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+#### <img src="https://img.shields.io/badge/-Game-blueviolet" /> Line Puzzle
+Addictive puzzle game — connect lines across hundreds of levels with smooth animations and satisfying progression.
+
+`Unity` `C#` `Puzzle` `Casual` `Mobile`
+
+</td>
+<td></td>
+</tr>
+</table>
+</div>
+
+---
+
+### Web Projects
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### <img src="https://img.shields.io/badge/-Web-blue" /> [Al-Zaytoun KSA Store](https://github.com/MuhammadJunaid-03/ksa-shoes-store)
+Premium dark-luxury e-commerce for Arabic footwear. 20 products, Arabic-first RTL, cart, checkout, WhatsApp, KSA payments (Mada, Tamara, Apple Pay).
+
+`Next.js 16` `React 19` `i18n RTL` `CSS Modules`
+
+</td>
+<td width="50%" valign="top">
+
+#### <img src="https://img.shields.io/badge/-Web-blue" /> [UnityVault](https://github.com/MuhammadJunaid-03/unity-asset-store)
+Unity asset marketplace with 3-tier plans, admin dashboard, and browsable catalog.
+
+`HTML/CSS/JS` `LocalStorage` `Vercel`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### <img src="https://img.shields.io/badge/-Web-blue" /> [RobotJet Website](https://github.com/MuhammadJunaid-03/robotjet-website)
+Industrial digital printing website redesign with responsive UI and professional branding.
+
+`HTML` `CSS` `JavaScript` `Responsive`
+
+</td>
 <td width="50%" valign="top">
 
 #### <img src="https://img.shields.io/badge/-Web-blue" /> [Portfolio](https://github.com/MuhammadJunaid-03/portfolio)
-Modern dark-mode personal portfolio with smooth animations, typing effect, scroll reveals, and responsive design. [Live Demo](https://muhammadjunaid-03.github.io/portfolio/)
+Dark-mode portfolio with animations, typing effect, scroll reveals. [Live Demo](https://muhammadjunaid-03.github.io/portfolio/)
 
 `HTML` `Tailwind CSS` `JavaScript`
-
-</td>
-<td width="50%" valign="top">
-
-#### <img src="https://img.shields.io/badge/-Web-blue" /> [Bakery MVP App](https://github.com/MuhammadJunaid-03/bakery-mvp-app)
-A modern bakery web app MVP with clean UI, product showcase, and responsive design. [Live Demo](https://bakery-mvp-app.vercel.app)
-
-`HTML` `CSS` `JavaScript` `Responsive Design`
 
 </td>
 </tr>
